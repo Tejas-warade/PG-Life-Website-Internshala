@@ -1,6 +1,7 @@
 # PG-life-website-internshala
 Completed this project as a part of training on web development using HTML, CSS, BootStrap, PHP, SQL, JS, React. This website helps to find out homes/flats on location provided.
 
+## Screenshots:
 
 ![image](https://github.com/Tejas-warade/PG-Life-Website-Internshala/assets/108890932/b5859d9c-99ea-4852-8576-cca8203ac96d)
 
